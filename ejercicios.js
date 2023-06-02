@@ -712,7 +712,7 @@ async function ordenarPuntoDeVentaMesa() {
       await cliente.close();
     }
   }
-  //ordenar_id_VentaMesas();
+  //ordenarPuntoDeVentaMesa();
 
 
 
